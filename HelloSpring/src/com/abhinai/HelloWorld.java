@@ -10,10 +10,7 @@ public class HelloWorld {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
-
+	
 	public void getMymessage() {
 		System.out.println("your message"+Mymessage); 
 	}
