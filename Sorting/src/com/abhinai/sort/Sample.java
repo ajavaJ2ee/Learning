@@ -1,6 +1,9 @@
 package com.abhinai.sort;
 
 public class Sample {
+	
+	public String Dummy;
+	
 
 	public static void main(String[] args) {
 //<<<<<<< HEAD
